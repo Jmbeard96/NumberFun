@@ -1,0 +1,11 @@
+/Users/jeremybeard/Projects/NumberFunApp/NumberFunApp/bin/Debug/netcoreapp2.0/NumberFunApp.deps.json
+/Users/jeremybeard/Projects/NumberFunApp/NumberFunApp/bin/Debug/netcoreapp2.0/NumberFunApp.runtimeconfig.json
+/Users/jeremybeard/Projects/NumberFunApp/NumberFunApp/bin/Debug/netcoreapp2.0/NumberFunApp.runtimeconfig.dev.json
+/Users/jeremybeard/Projects/NumberFunApp/NumberFunApp/bin/Debug/netcoreapp2.0/NumberFunApp.dll
+/Users/jeremybeard/Projects/NumberFunApp/NumberFunApp/bin/Debug/netcoreapp2.0/NumberFunApp.pdb
+/Users/jeremybeard/Projects/NumberFunApp/NumberFunApp/obj/Debug/netcoreapp2.0/NumberFunApp.csprojResolveAssemblyReference.cache
+/Users/jeremybeard/Projects/NumberFunApp/NumberFunApp/obj/Debug/netcoreapp2.0/NumberFunApp.csproj.CoreCompileInputs.cache
+/Users/jeremybeard/Projects/NumberFunApp/NumberFunApp/obj/Debug/netcoreapp2.0/NumberFunApp.AssemblyInfoInputs.cache
+/Users/jeremybeard/Projects/NumberFunApp/NumberFunApp/obj/Debug/netcoreapp2.0/NumberFunApp.AssemblyInfo.cs
+/Users/jeremybeard/Projects/NumberFunApp/NumberFunApp/obj/Debug/netcoreapp2.0/NumberFunApp.dll
+/Users/jeremybeard/Projects/NumberFunApp/NumberFunApp/obj/Debug/netcoreapp2.0/NumberFunApp.pdb
